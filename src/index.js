@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import styles from './index.module.css';
 import './index.scss';
-import mario from './public/images/super_mario.png';
+import mario from 'images/super_mario.png';
 
 class App extends React.Component{
     render(){
